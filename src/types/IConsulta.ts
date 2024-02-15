@@ -7,5 +7,5 @@ export default interface IConsulta extends IProfissional {
     profissional: Array<IProfissional>
     especialidade: string,
     paciente: string,
-    modalidae: string
+    modalidade: string
 }
